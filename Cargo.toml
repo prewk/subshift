@@ -1,0 +1,8 @@
+[package]
+name = "subshift"
+version = "0.1.0"
+authors = ["Oskar Thornblad <oskar.thornblad@gmail.com>"]
+
+[dependencies]
+time = "0.1"
+chrono = "0.3"
